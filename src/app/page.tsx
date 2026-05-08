@@ -32,7 +32,7 @@ export default function Home() {
 
         {/* CTA */}
         <a
-          href="mailto:amit@lutiontech.com"
+          href="mailto:hello@lutiontech.com"
           className="px-8 py-3 rounded-full text-sm font-medium text-white transition-opacity hover:opacity-80"
           style={{ background: "linear-gradient(to right, #00FFFF, #FF00FF)", color: "#1C1D22" }}
         >
