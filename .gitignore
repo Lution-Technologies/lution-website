@@ -48,3 +48,7 @@ next-env.d.ts
 
 # Internal state — lives in lution-architecture repo instead
 PROGRESS.md
+
+# Agentic dev pipeline — internal bookkeeping, not for the public repo
+agentic-queue.md
+agentic-dev/
